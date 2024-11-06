@@ -39,3 +39,4 @@ fun calcularImc(view : View){
     textResultado.setText("O seu IMC é $arredondado")
 
 }
+    }
